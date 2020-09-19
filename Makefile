@@ -9,8 +9,8 @@ SRC = main.c\
 src/calc.c\
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c
+TEST_SRC = src/src.c\
+test/test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
