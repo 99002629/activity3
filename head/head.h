@@ -1,5 +1,5 @@
-#ifndef __HEAD_H_H__
-#define __HEAD_H_H__
+#ifndef __HEAD_H__
+#define __HEAD_H__
 
 
 void login();
